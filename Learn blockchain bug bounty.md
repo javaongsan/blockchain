@@ -84,7 +84,7 @@
 - [Surya](https://github.com/ConsenSys/surya)
 - [VS Code Visual Auditor for Solidity](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 - [VS Code Visual Auditor for Vyper](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-vyper)
-
+- [A curated list of resources and tools for the MythX smart contract security API](https://github.com/b-mueller/awesome-mythx-smart-contract-security-tools)
 
 # Development
 1. [The 🏰 BuidlGuidl is a curated group of Ethereum builders creating products, prototypes, and tutorials with 🏗 scaffold-eth](https://buidlguidl.com/)
