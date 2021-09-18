@@ -42,6 +42,8 @@
 - [Understanding Overflow and Underflow Attacks on Smart Contracts](https://blockgeeks.com/guides/underflow-attacks-smart-contracts/)
 - [How to Audit a Smart Contract](https://blockgeeks.com/guides/audit-smart-contract/)
 - [Capture the Ether THE GAME OF ETHEREUM SMART CONTRACT SECURITY]( https://capturetheether.com/)
+- [BHIS | Getting Started in Blockchain Security and Smart Contract Auditing | Beau Bullock](https://youtu.be/WchXkMlKj9w?t=1961)
+- [Blockchain Security Checklist](https://www.notion.so/Blockchain-Security-Checklist-4e403dc8db284ab3aa74b0379d5b0620)
 ### Series
 - [Smart Contract Hacking - 0x01 Intro to the Remix Development Environment](https://www.youtube.com/watch?v=me840K18IFM)
 - [Blockchain Exploitation 0x00 - Intro](https://www.youtube.com/watch?v=an8lzwLOjcw)
